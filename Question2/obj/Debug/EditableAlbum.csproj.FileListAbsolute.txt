@@ -1,0 +1,15 @@
+H:\CourseHero\C#\EditableAlbum\bin\Debug\EditableAlbum.exe.config
+H:\CourseHero\C#\EditableAlbum\bin\Debug\EditableAlbum.exe
+H:\CourseHero\C#\EditableAlbum\bin\Debug\EditableAlbum.pdb
+H:\CourseHero\C#\EditableAlbum\bin\Debug\Newtonsoft.Json.dll
+H:\CourseHero\C#\EditableAlbum\bin\Debug\Newtonsoft.Json.xml
+H:\CourseHero\C#\EditableAlbum\obj\Debug\EditableAlbum.csproj.AssemblyReference.cache
+H:\CourseHero\C#\EditableAlbum\obj\Debug\EditableAlbum.windowAlbum.resources
+H:\CourseHero\C#\EditableAlbum\obj\Debug\EditableAlbum.Properties.Resources.resources
+H:\CourseHero\C#\EditableAlbum\obj\Debug\EditableAlbum.csproj.GenerateResource.cache
+H:\CourseHero\C#\EditableAlbum\obj\Debug\EditableAlbum.csproj.CoreCompileInputs.cache
+H:\CourseHero\C#\EditableAlbum\obj\Debug\EditableAlbum.csproj.CopyComplete
+H:\CourseHero\C#\EditableAlbum\obj\Debug\EditableAlbum.exe
+H:\CourseHero\C#\EditableAlbum\obj\Debug\EditableAlbum.pdb
+H:\CourseHero\C#\EditableAlbum\obj\Debug\EditableAlbum.EditForm.resources
+H:\CourseHero\C#\EditableAlbum\obj\Debug\EditableAlbum.AddForm.resources

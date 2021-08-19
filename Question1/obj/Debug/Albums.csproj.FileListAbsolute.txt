@@ -1,0 +1,13 @@
+H:\CourseHero\C#\Albums\bin\Debug\Albums.exe.config
+H:\CourseHero\C#\Albums\bin\Debug\Albums.exe
+H:\CourseHero\C#\Albums\bin\Debug\Albums.pdb
+H:\CourseHero\C#\Albums\obj\Debug\Albums.csproj.AssemblyReference.cache
+H:\CourseHero\C#\Albums\obj\Debug\Albums.windowAlbum.resources
+H:\CourseHero\C#\Albums\obj\Debug\Albums.Properties.Resources.resources
+H:\CourseHero\C#\Albums\obj\Debug\Albums.csproj.GenerateResource.cache
+H:\CourseHero\C#\Albums\obj\Debug\Albums.csproj.CoreCompileInputs.cache
+H:\CourseHero\C#\Albums\obj\Debug\Albums.exe
+H:\CourseHero\C#\Albums\obj\Debug\Albums.pdb
+H:\CourseHero\C#\Albums\bin\Debug\Newtonsoft.Json.dll
+H:\CourseHero\C#\Albums\bin\Debug\Newtonsoft.Json.xml
+H:\CourseHero\C#\Albums\obj\Debug\Albums.csproj.CopyComplete
